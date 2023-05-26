@@ -3,4 +3,4 @@ My Machine Learning Streamlit Web App
 
 It is a Machine Learning model trained on the New York Taxis Dataset
 
-Demo : <[nyctaxis.streamlit.app](https://nyctaxis.streamlit.app/)>
+Demo : [nyctaxis.streamlit.app](https://nyctaxis.streamlit.app/)
